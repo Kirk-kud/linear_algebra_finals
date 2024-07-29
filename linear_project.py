@@ -4,6 +4,7 @@ import pandas as pd
 import sympy as sp
 import plotly.graph_objects as go
 from st_aggrid import AgGrid, GridOptionsBuilder
+import matplotlib.pyplot as plt
 
 def rref(A_aug):
     A_sym = sp.Matrix(A_aug)
