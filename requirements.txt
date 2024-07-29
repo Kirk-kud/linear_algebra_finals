@@ -2,5 +2,5 @@ streamlit
 numpy
 pandas
 sympy
-plotly.
+plotly
 st_aggrid
