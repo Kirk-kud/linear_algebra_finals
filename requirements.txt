@@ -3,4 +3,4 @@ numpy
 pandas
 sympy
 plotly
-st_aggrid
+streamlit-aggrid
